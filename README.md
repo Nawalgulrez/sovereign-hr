@@ -95,4 +95,4 @@ For the initial evaluation environment, the internal registry access is secured 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-*Developed by [Your Name/Organization]*
+*Developed by [NAWALGULREZ]*
